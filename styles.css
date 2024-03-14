@@ -1,0 +1,23 @@
+.game-button {
+  width: 5rem;
+  height: 5rem;
+}
+
+.button-container {
+  display: flex;
+
+  margin: 3rem;
+  flex-direction: column;
+}
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
